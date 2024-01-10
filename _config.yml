@@ -21,9 +21,9 @@
 title: 研究会「分子雲衝突が駆動する巨大分子雲の進化と星形成」
 author:
   name: Rin Yamada
-  email: Yamada@a.phys.nagoya-u.ac.jp
+  email: Yamada[at]a.phys.nagoya-u.ac.jp
 
-description: この研究会は科研費xxxによってサポートされています
+description: この研究会はJSPS 科研費22H00152(代表:福井)および特別研究員奨励費22KJ1604(代表:山田)によってサポートされています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
