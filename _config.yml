@@ -20,8 +20,6 @@
 
 title: 研究会「分子雲衝突が駆動する巨大分子雲の進化と星形成」
 email: yamada[at]a.phys.nagoya-u.ac.jp
-description: >- # this means to ignore newlines until "baseurl:"
-    この研究会は特別研究員奨励費22KJ1604によってサポートされています。 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
