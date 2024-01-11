@@ -24,10 +24,10 @@ ISM/HIガス/分子ガス/星形成/大質量星形成/星間雲衝突/近傍銀
 現在交渉中
 
 ## お問い合わせ
-山田(yamada@a.phys.nagoya-u.ac.jp)または前田()までメールにてお問い合わせください。
+山田(yamada@a.phys.nagoya-u.ac.jp)または前田(fmaeda@ioa.s.u-tokyo.ac.jp)までメールにてお問い合わせください。
 
 ## Scientific Organizing Committee (SOC)
-山田麟(名古屋大学)、前田郁弥(東京大学)、太田耕治(京都大学), 井上剛志(甲南大学)、羽部朝男(北海道大学)、立原研悟(名古屋大学)、福井康雄(名古屋大学)
+山田麟(名古屋大学)、前田郁弥(東京大学)、太田耕司(京都大学), 井上剛志(甲南大学)、羽部朝男(北海道大学)、立原研悟(名古屋大学)、福井康雄(名古屋大学)
 
-## Local Organizing Committee (SOC)
+## Local Organizing Committee (LOC)
 山田麟、出町史夏(名古屋大学)
