@@ -18,7 +18,11 @@ layout: home
 ISM/HIガス/分子ガス/星形成/大質量星形成/星間雲衝突/近傍銀河/巨大分子雲/銀河環境/金属量/銀河面サーベイ/GAIA/
 
 ## 参加申し込み
-講演を希望される方は2/19(月)までに[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeoMVIn6m09KSdJcriAVgCX9hb2_3aXV8puxXAim1Om2yt4gQ/viewform?usp=sf_link)からお申し込みください。聴講のみの方の申し込みは研究会終了時まで随時受け付けます。
+講演を希望される方は2/13(火)までに[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeoMVIn6m09KSdJcriAVgCX9hb2_3aXV8puxXAim1Om2yt4gQ/viewform?usp=sf_link)からお申し込みください。聴講のみの方の申し込みは研究会終了時まで随時受け付けます。
+
+## 言語
+講演: 日本語、
+スライド: 英語推奨
 
 ## 招待講演
 現在交渉中
