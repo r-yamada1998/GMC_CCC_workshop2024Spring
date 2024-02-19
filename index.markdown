@@ -74,7 +74,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 | 14:10--14:30 | 松井秀徳 | 旭川高専 |Impulsive gas fueling to the galactic center in a barred galaxy due to falls of gas clouds | 
 | 14:30--14:50 | 榎谷玲依 | 九州産業大学 |NGC253中心部における星形成 | 
 | 14:50--15:00 | -- | 小休憩 |
-| 15:00--15:40 | SOC| 総合議論 |
+| 15:00--15:40 | SOC| 総合議論2 |
 | 15:40--16:00 | 羽部 | Closing Remark | 北海道大学 |
 
 
