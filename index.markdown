@@ -70,8 +70,8 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 | 11:25--11:45 | 佐野 | High-Mass Cluster Formation in M33 Triggered by Cloud-Cloud Collisions | 
 | 11:45--13:30 | -- | 昼休憩 & 自由討論 |
 | 13:30--13:50 | 井上(s) | アンテナ銀河における星形成の多様性と分子雲衝突 | 
-| 13:50--14:10 | 大久保宏真 | 主成分分析で探るNGC 1068の分子雲衝突 | 
-| 14:10--14:30 | 松井秀徳 |  Impulsive gas fueling to the galactic center in a barred galaxy due to falls of gas clouds | 
+| 13:50--14:10 | 大久保 | 主成分分析で探るNGC 1068の分子雲衝突 | 
+| 14:10--14:30 | 松井 |  Impulsive gas fueling to the galactic center in a barred galaxy due to falls of gas clouds | 
 | 14:30--14:50 | 榎谷 | NGC253中心部における星形成 | 
 | 14:50--15:00 | 小休憩 | SOC |
 | 15:00--15:40 | 総合議論2| SOC |
