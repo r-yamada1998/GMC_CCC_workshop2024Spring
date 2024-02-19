@@ -63,12 +63,12 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 
 | 時間 | 発表者 | タイトル | 
 | --------- | --------- | --------- |
-| 10:00--10:30 | 幸田 | On the Lifetime of Molecular Clouds with the ``Tuning-fork'' Analysis|
-| 10:30--10:50 | 松坂 | Accumulation processes of the diffuse molecular gas and the formation of the GMC in galaxies|
-| 10:50--11:10 | 柴田 | 高密度トレーサーNH3から導出される物理量の誤差評価とその結果を踏まえた研究案の紹介|
-| 11:10--11:30 | 出町 | M74におけるGMCのタイプ分類 | 
-| 11:30--11:50 | 佐野 | High-Mass Cluster Formation in M33 Triggered by Cloud-Cloud Collisions | 
-| 11:50--13:30 | -- | 昼休憩 & 自由討論 |
+| 10:00--10:25 | 幸田 | On the Lifetime of Molecular Clouds with the ``Tuning-fork'' Analysis|
+| 10:25--10:45 | 松坂 | Accumulation processes of the diffuse molecular gas and the formation of the GMC in galaxies|
+| 10:45--11:05 | 柴田 | 高密度トレーサーNH3から導出される物理量の誤差評価とその結果を踏まえた研究案の紹介|
+| 11:05--11:25 | 出町 | M74におけるGMCのタイプ分類 | 
+| 11:25--11:45 | 佐野 | High-Mass Cluster Formation in M33 Triggered by Cloud-Cloud Collisions | 
+| 11:45--13:30 | -- | 昼休憩 & 自由討論 |
 | 13:30--13:50 | 井上(s) | アンテナ銀河における星形成の多様性と分子雲衝突 | 
 | 13:50--14:10 | 大久保宏真 | 主成分分析で探るNGC 1068の分子雲衝突 | 
 | 14:10--14:30 | 松井秀徳 |  Impulsive gas fueling to the galactic center in a barred galaxy due to falls of gas clouds | 
