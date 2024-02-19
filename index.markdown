@@ -56,7 +56,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 | 15:30--16:00 | 総合議論1 | SOC
 | 16:00--16:50 | 小林 | TBD |
 | 16:50--17:00 | 休憩 | 
-| 17:00--18:00 | Clare Dobbs |
+| 17:00--18:00 | Clare Dobbs |Cloud-cloud collisions on galaxy scales, and how they influence cluster formation|
 
 ### 2日目(2/28(水))
 | 時間 | 発表者 | タイトル | 
