@@ -71,7 +71,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 | 11:45-13:30 | ----- | 昼休憩 & 自由討論 |
 | 13:30-13:50 | 井上真 | 京都大学|アンテナ銀河における星形成の多様性と分子雲衝突 | 
 | 13:50-14:10 | 大久保宏真 |筑波大学|主成分分析で探るNGC 1068の分子雲衝突 | 
-| 14:10-14:30 | 松井秀徳 | 旭川高専 |Impulsive gas fueling to the galactic <br>center in a barred galaxy due to falls of gas clouds | 
+| 14:10-14:30 | 松井秀徳 | 旭川高専 |Impulsive gas fueling to the galactic <br>center in a barred galaxy due to <br>falls of gas clouds | 
 | 14:30-14:50 | 榎谷玲依 | 九州産業大学 |NGC253中心部における星形成 | 
 | 14:50-15:00 | ----- | 小休憩 |
 | 15:00-15:40 | SOC| 総合議論2 |
