@@ -38,7 +38,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 ## プログラム
 ### 1日目 (2/27(火))
 
-| 時間 | 発表者 | 所属 |タイトル |
+| 時間 &nbsp; &nbsp;| 発表者 | 所属 |タイトル |
 | --------- | :----------- | --------- |
 | 10:00-10:05 | 山田麟 |名古屋大学| Opening Remark |
 | 10:05-10:25 | 山田麟|名古屋大学| GL490における星間雲衝突による<br>星・分子雲形成 | 
@@ -61,7 +61,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 
 ### 2日目(2/28(水))
 
-| 時間 | 発表者 | 所属 |タイトル |
+| 時間 &nbsp; &nbsp; | 発表者 | 所属 |タイトル |
 | --------- | ---------- | --------- |
 | 10:00-10:25 | 幸田仁 | ストーニーブルック大学|On the Lifetime of Molecular <br>Clouds with the ``Tuning-fork'' Analysis|
 | 10:25-10:45 | 松坂怜 | 鹿児島大学|Accumulation processes of <br>the diffuse molecular gas and the <br>formation of the GMC in galaxies|
