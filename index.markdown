@@ -63,7 +63,7 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 
 | 時間 &nbsp; &nbsp; | 発表者 | 所属 |タイトル |
 | --------- | ---------- | --------- |
-| 10:00-10:25 | 幸田仁 | ストーニーブルック大学|On the Lifetime of Molecular <br>Clouds with the ``Tuning-fork'' Analysis|
+| 10:00-10:25 | 幸田仁 | Stony Brook大学|On the Lifetime of Molecular <br>Clouds with the ``Tuning-fork'' Analysis|
 | 10:25-10:45 | 松坂怜 | 鹿児島大学|Accumulation processes of <br>the diffuse molecular gas and the <br>formation of the GMC in galaxies|
 | 10:45-11:05 | 柴田洋佑 |鹿児島大学 |高密度トレーサーNH3から導出される<br>物理量の誤差評価とその結果を<br>踏まえた研究案の紹介|
 | 11:05-11:25 | 出町史夏 | 名古屋大学|M74におけるGMCのタイプ分類 | 
