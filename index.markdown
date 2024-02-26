@@ -65,9 +65,10 @@ Clare Dobbs氏 (エクゼター大学、オンライン)
 | --------- | ---------- | --------- |
 | 10:00-10:25 | 幸田仁 | SUNY<br>Stony Brook|On the Lifetime of Molecular <br>Clouds with the ``Tuning-fork'' Analysis|
 | 10:25-10:45 | 松坂怜 | 鹿児島大学|Accumulation processes of <br>the diffuse molecular gas and the <br>formation of the GMC in galaxies|
-| 10:45-11:05 | 柴田洋佑 |鹿児島大学 |高密度トレーサーNH3から導出される<br>物理量の誤差評価とその結果を<br>踏まえた研究案の紹介|
-| 11:05-11:25 | 出町史夏 | 名古屋大学|M74におけるGMCのタイプ分類 | 
-| 11:25-11:45 | 佐野栄俊 | 岐阜大学|High-Mass Cluster Formation in M33 <br>Triggered by Cloud-Cloud Collisions | 
+| 10:45-10:55 | ----- | 小休憩 |
+| 10:55-11:15 | 柴田洋佑 |鹿児島大学 |高密度トレーサーNH3から導出される<br>物理量の誤差評価とその結果を<br>踏まえた研究案の紹介|
+| 11:15-11:35 | 出町史夏 | 名古屋大学|M74におけるGMCのタイプ分類 | 
+| 11:35-11:55 | 佐野栄俊 | 岐阜大学|High-Mass Cluster Formation in M33 <br>Triggered by Cloud-Cloud Collisions | 
 | 11:45-13:30 | ----- | 昼休憩 & 自由討論 |
 | 13:30-13:50 | 井上真 | 京都大学|アンテナ銀河における星形成の多様性と分子雲衝突 | 
 | 13:50-14:10 | 大久保宏真 |筑波大学|主成分分析で探るNGC 1068の分子雲衝突 | 
